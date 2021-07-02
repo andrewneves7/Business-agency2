@@ -7,7 +7,6 @@ menu.addEventListener('click', () => {
  menu.classList.toggle('change')    
 })
 // End of Navbar
-console.log('swag')
 
 // section2 video
 const video = document.querySelector('.video')
